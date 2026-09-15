@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://agwebtest2.onrender.com/$1"
+      "destination": "https://web.telegram.org/$1"
     }
   ]
 }
